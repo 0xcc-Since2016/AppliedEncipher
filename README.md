@@ -1,4 +1,7 @@
 # AppliedEncipher
 ===
-This repository including self-implementation of standard Encryption/Decryption.
----
+###This repo includes self-implementation of std Encryption/Decryption.
+###1-Base64
+
+
+
