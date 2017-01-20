@@ -1,2 +1,4 @@
 # AppliedEncipher
-This is a repository including self-realization of standard encryption.
+===
+This repository including self-implementation of standard Encryption/Decryption.
+---
